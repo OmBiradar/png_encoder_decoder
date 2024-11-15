@@ -2,6 +2,8 @@
 
 This tool can encode a message into a PNG image by modifying the Red Channel.
 
+This tool is written in rust🦀!!!!
+
 You can use the help command to see all the availble commands and details about them in the terminal.
 
 > Note : You can use the exe file after generating it, until that we can stick with `cargo run --` after which we can pass the arguments just like we would pass it to the final executable.
